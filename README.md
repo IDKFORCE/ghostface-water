@@ -1,5 +1,6 @@
-## fs-water
-FiveM Water Manager
+# ghostface-water
+
+## FiveM Water Manager
 
 ```My Discord```
 - [Discord](https://discord.gg/UFng7DWnWP)
